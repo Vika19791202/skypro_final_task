@@ -1,10 +1,23 @@
 При выполнении работы найдены и исправлены следующие ошибки:
 
 Файл index.html.
-1. Лишний пробел в подвале страницы. Сейчас "202 4", а должно быть "2024".
-2. ...
-3. ...
-4. ...
+1.Пропущены первые 6 строк
+2.Пропущена строка после lang="en"
+3.Пропущена строка перед <style>
+4.Перенесена > на  следующую строку после data-a11y-link-underlines="true"
+5.Пропущены 4 строчки перед <head>
+6.Пропущены 2 строчки перед </head>
+7.Пропущена 1 строчка перед <style type="text/css">
+8.Пропущена 1 строчка перед pre, code {
+9.Пропущена 1 строчка после </style>
+10. Пропущены 3 строчки перед <script type=
+11.Пропущена 1 строчка перед <script crossorigin="anonymous" type="module" src="https://github.githubassets.com/assets/primer-react-9537ac79f0a3d832.js" defer="defer"></script>
+12. Пропущены 2 строчки перед <title>
+13. Пропущены 3 строчки после <title>
+14.Пропущены 2 строчки перед <meta name="current-catalog-service-hash"
+15.Пропущены 2 строчки после <meta name="current-catalog-service-hash"
+16.Пропущены 2 строчки перед <meta name="hovercard-subject-tag" content="repository:726473717" data-turbo-transient>
+17.Пропущены 2 строчки после <meta name="hovercard-subject-tag" content="repository:726473717" data-turbo-transient>
 
 Файл cmd.html.
 1. ...
